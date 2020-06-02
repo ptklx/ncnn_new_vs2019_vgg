@@ -22,6 +22,6 @@ cmake -G"NMake Makefiles" -DCMAKE_BUILD_TYPE=Release -DCMAKE_INSTALL_PREFIX=%cd%
 
 
 还有  项目属性   ——> C/C++ ——> 预处理器 ——> 预处理器定义 (此处添加预定义编译开关   NOMINMAX）
-_CRT_SECURE_NO_DEPRECATE
-_SCL_SECURE_NO_DEPRECATE
+_CRT_SECURE_NO_DEPRECATE 
+_SCL_SECURE_NO_DEPRECATE 
 NOMINMAX
