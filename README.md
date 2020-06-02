@@ -1,4 +1,4 @@
-# ncnn_new_vs2019_vgg
+# ncnn_new_vs2019_yolov3
 
 https://github.com/Tencent/ncnn/wiki/how-to-build#build-for-windows-x64-using-visual-studio-community-2017
 
